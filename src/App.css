@@ -17,6 +17,12 @@
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
+.light{
+  background-color:aquamarine;
+}
+.dark{
+  background-color:blue;
+}
 
 @keyframes logo-spin {
   from {
